@@ -1,0 +1,10 @@
+import java.swing.*;
+public class text2{
+ public static void main(String args[]){
+  JFrame f=new Jframe("我的窗口");
+  f.setBounds(400,300,400,300);
+  f.setVisible(true);
+  }}
+ 
+ 
+    
